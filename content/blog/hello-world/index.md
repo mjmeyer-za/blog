@@ -1,21 +1,22 @@
 ---
-title: Hello World
-date: '2015-05-01T22:12:03.284Z'
+title: Hello World!
+date: '2018-11-29T22:12:03.284Z'
 ---
 
-This is my first post on my new fake blog! How exciting!
+No, this isn’t a default generated post… Habits of programming, what can I say. Although, it’s appropriate I guess, even if it isn’t really original. This is the first post you know 😉
 
-I'm sure I'll write a lot more interesting things in the future.
+## So what is this all about?
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+It’s nearly end of 2018. For years I’ve wanted to blog, to start my own “brand”. And yes, I guess at the end of a year you look back and think about all the things you haven’t accomplished yet.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Depressing as that sounds, I’m actually pretty upbeat. The possibilities, the dreams, my goals, and sharing it all with the world. NO, I’m not talking about what I’m about to have for lunch… I have some goals and I think writing about what I learn will help me achieve them. At minimum, I’ll be able to articulate things better… and that’s always a win when it comes to any career.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+## What’s on the agenda?
+
+One of my goals is to make learning a habit. I’d like to stay up to date with the JavaScript industry a bit more than I have. And by up to date, I mean actually playing around with new code/projects on a daily basis.
+
+Having a full time job tends to keep you in your own little bubble. You only work on certain problems, in a specific way and with limited tools.
+
+I believe exploring outside my “comfort zone” will help my current career, but also expand my horizons as a software developer. Ultimately, writing about these explorations will hopefully make things stick even better. Who knows, maybe it’ll even help someone out there on the World Wide Interwebz 😜
+
+So what do you say? Will you join me for the ride? 🚀
