@@ -6,6 +6,7 @@ import {
   Link,
   useColorMode,
 } from '@chakra-ui/core';
+import { MoonIcon, SunIcon } from '@chakra-ui/icons';
 import NextLink from 'next/link';
 
 function Layout({ children }) {
@@ -26,8 +27,8 @@ function Layout({ children }) {
             <Link>MJ Meyer's digital garden</Link>
           </NextLink>
 
-          <Button onClick={toggleColorMode}>
-            {colorMode === 'light' ? <Icon name="sun" /> : <Icon name="moon" />}
+          <Button onClick={toggleColorMode} ml="20px">
+            {colorMode === 'light' ? <SunIcon /> : <MoonIcon />}
           </Button>
         </Heading>
         {children}
